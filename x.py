@@ -1,4 +1,4 @@
-x=2
-y=3
-z=x+y
-print(z)
+X=2
+Y=3
+Z=X+Y
+print(Z)
