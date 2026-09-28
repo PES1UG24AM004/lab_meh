@@ -40,3 +40,4 @@ jobs:
     - name: Run script
       run: |
         python x.py
+        pylint x.py
